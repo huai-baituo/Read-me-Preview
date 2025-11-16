@@ -192,25 +192,3 @@ Copyright (c) 2025 - 2026 Shanhaichu co. Ltd
 
 Permission is hereby granted, free of charge, to any person obtaining a copy...
 ```
-
----
-
-## LANGKAH AKHIR
-
-1. **Buat repo GitHub baru**  
-2. **Upload semua file:**  
-   - `index.js`  
-   - `serialize.js`  
-   - `package.json`  
-   - `README.md`  
-   - `LICENSE`  
-3. **Commit & push**
-
-```bash
-git init
-git add .
-git commit -m "Initial commit: Klepon Assistant Bot"
-git branch -M main
-git remote add origin https://github.com/huai-baituo/klepon-assistant.git
-git push -u origin main
-```
