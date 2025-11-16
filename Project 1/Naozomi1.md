@@ -1,14 +1,11 @@
-```markdown
 # Klepon Assistant Bot  
-**WhatsApp Bot Modern dengan Baileys v7+ (LID Support)**  
+**WhatsApp Bot Modern dengan Baileys v7+ (LID Support)**
 
-> Bot WhatsApp canggih dengan fitur **mention bot via LID**, **download media**, **auto-detect LID**, **simpan LID permanen**, dan **siap produksi**.
+> Bot WhatsApp canggih dengan fitur mention bot via LID, download media, auto-detect LID, simpan LID permanen, dan siap produksi.
 
 [![Node.js](https://img.shields.io/badge/Node.js-v20%2B-green)](https://nodejs.org/)
 [![Baileys](https://img.shields.io/badge/Baileys-v7.0.0-blue)](https://github.com/WhiskeySockets/Baileys)
 [![License](https://img.shields.io/badge/License-MIT-yellow)](LICENSE)
-
----
 
 ## Fitur Utama
 
@@ -16,13 +13,12 @@
 |------|--------|
 | Pairing Code & QR Login | Done |
 | Auto Detect Bot LID dari Mention | Done |
-| Simpan LID ke `botLid.json` (anti hilang) | Done |
-| `@mention` Bot → Auto Reply | Done |
-| Download Media (gambar/video/audio) | Done |
+| Simpan LID ke botLid.json | Done |
+| @mention Bot → Auto Reply | Done |
+| Download Media | Done |
 | React, Forward, Delete | Done |
 | Support Ephemeral & View Once | Done |
-| Anti-Ban & Stabil | Done |
-
+| Anti-Ban | Done |
 ---
 
 ## Prasyarat
